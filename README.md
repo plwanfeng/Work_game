@@ -19,15 +19,14 @@
 npm install
 ```
 
-4. 配置环境变量:
-   - 复制`.env.example`文件为`.env`
-   - 在`.env`文件中填入你的钱包私钥，不要带0x
+4. 配置钱包:
+   - 在work-harvester.js文件中填入你的钱包私钥，不要带0x
 
 ## 使用方法
 
 运行脚本收获收益:
 ```bash
-node work-harvester.js
+node work-harvester.js或者npm start
 ```
 
 ## 安全注意事项
