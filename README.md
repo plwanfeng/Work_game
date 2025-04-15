@@ -30,6 +30,9 @@ npm install
 node work-harvester.js
 ```
 
+![880fc6ad-7796-441b-8e49-e8db9b7fdde1](https://github.com/user-attachments/assets/df63a348-0e19-4ce4-911f-43b1573f93ab)
+
+
 ## 安全注意事项
 
 ⚠️ **重要警告**:
