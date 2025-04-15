@@ -7,6 +7,7 @@
 - 自动查询用户质押的所有NFT
 - 一键收获所有NFT的WORK代币收益
 - 可通过定时任务实现自动收益收集
+- 增加SWap功能，一键兑换为USDT
 
 ## 安装步骤
 
@@ -26,7 +27,7 @@ npm install
 
 运行脚本收获收益:
 ```bash
-node work-harvester.js或者npm start
+node work-harvester.js
 ```
 
 ## 安全注意事项
